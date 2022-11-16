@@ -1,0 +1,7 @@
+customtkinter
+tensorflow 
+numpy
+pandas
+tkinter
+matplotlib
+seaborn
